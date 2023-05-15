@@ -58,7 +58,7 @@ while True:
             contestant2_votes['votes'] += 1
             print("Thanks for voting", contestant2, "!")
         else:
-            print("Recheck Your Options")
+            print("Kindly Recheck Your Options")
     else:
         print("You are not eligible to Vote")
 
